@@ -52,56 +52,56 @@
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "76CE75FB-E730-4401-844B-3C87A15EAEF8 - 945ea779d6c5538e"
+                  uuid = "76CE75FB-E730-4401-844B-3C87A15EAEF8 - 17b966bea3b87eff"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "(1) suspend resume partial function for SearchAppTests.appViewModelTests.performSearchTestForSuccess() async -&gt; ()"
                   moduleName = "SearchAppTests"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ankush/Desktop/SearchApp/SearchAppTests/appViewModelTests.swift"
+                  urlString = "file:///Users/ankush/Documents/SearchAppGit/SearchApp/SearchAppTests/appViewModelTests.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "21"
                   endingLineNumber = "21">
                </Location>
                <Location
-                  uuid = "76CE75FB-E730-4401-844B-3C87A15EAEF8 - b7655c52bd87a898"
+                  uuid = "76CE75FB-E730-4401-844B-3C87A15EAEF8 - 34829d95c8fa85e9"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "(2) await resume partial function for SearchAppTests.appViewModelTests.performSearchTestForSuccess() async -&gt; ()"
                   moduleName = "SearchAppTests"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ankush/Desktop/SearchApp/SearchAppTests/appViewModelTests.swift"
+                  urlString = "file:///Users/ankush/Documents/SearchAppGit/SearchApp/SearchAppTests/appViewModelTests.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "21"
                   endingLineNumber = "21">
                </Location>
                <Location
-                  uuid = "76CE75FB-E730-4401-844B-3C87A15EAEF8 - 8b6503bb9834978c"
+                  uuid = "76CE75FB-E730-4401-844B-3C87A15EAEF8 - 882c27ced49bafd"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "(3) suspend resume partial function for SearchAppTests.appViewModelTests.performSearchTestForSuccess() async -&gt; ()"
                   moduleName = "SearchAppTests"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ankush/Desktop/SearchApp/SearchAppTests/appViewModelTests.swift"
+                  urlString = "file:///Users/ankush/Documents/SearchAppGit/SearchApp/SearchAppTests/appViewModelTests.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "21"
                   endingLineNumber = "21">
                </Location>
                <Location
-                  uuid = "76CE75FB-E730-4401-844B-3C87A15EAEF8 - fe90dc1ca50b798d"
+                  uuid = "76CE75FB-E730-4401-844B-3C87A15EAEF8 - 7d771ddbd07654fc"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "(4) suspend resume partial function for SearchAppTests.appViewModelTests.performSearchTestForSuccess() async -&gt; ()"
                   moduleName = "SearchAppTests"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ankush/Desktop/SearchApp/SearchAppTests/appViewModelTests.swift"
+                  urlString = "file:///Users/ankush/Documents/SearchAppGit/SearchApp/SearchAppTests/appViewModelTests.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "21"
@@ -124,52 +124,6 @@
             endingLineNumber = "18"
             landmarkName = "performSearch(searchText:)"
             landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "5A2E8431-B367-48BC-B6FE-449BA25771BB"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SearchAppTests/appViewModelTests.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "30"
-            endingLineNumber = "30"
-            landmarkName = "performSearchTestForFailure()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "5A2E8431-B367-48BC-B6FE-449BA25771BB - acf5cfb01c68c668"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(3) suspend resume partial function for SearchAppTests.appViewModelTests.performSearchTestForFailure() async -&gt; ()"
-                  moduleName = "SearchAppTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ankush/Desktop/SearchApp/SearchAppTests/appViewModelTests.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "32"
-                  endingLineNumber = "32">
-               </Location>
-               <Location
-                  uuid = "5A2E8431-B367-48BC-B6FE-449BA25771BB - 90609811397fa46b"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(4) suspend resume partial function for SearchAppTests.appViewModelTests.performSearchTestForFailure() async -&gt; ()"
-                  moduleName = "SearchAppTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ankush/Desktop/SearchApp/SearchAppTests/appViewModelTests.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "32"
-                  endingLineNumber = "32">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

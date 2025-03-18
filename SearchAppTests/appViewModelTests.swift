@@ -26,8 +26,12 @@ import Testing
     @Test func performSearchTestForFailure() async  {
         session.isSuccess = false
         var viewModel = SearchViewModel(session: session)
-       var value = try? await viewModel.performSearch(searchText: "test1")
-        #expect(value == nil)
+        do {
+            try await viewModel.performSearch(searchText: "test1")
+         } catch {
+             #expect(((error as? AppError) == .jsonDecode))
+         }
+        
         // Write your test here and use APIs like `#expect(...)` to check expected conditions.
     }
 
