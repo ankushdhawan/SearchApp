@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A64CA62E-4093-467A-9A9E-2F702321FC3B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "010A9473-62E9-430B-B0F7-1DB3F12B91EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SearchAppTests/MockSessionManager/MockSessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "callSearchApi(searchText:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B43E7BD6-A894-4287-8F65-9C762987283D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SearchAppTests/MockSessionManager/MockSessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "readJson(fileName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76CE75FB-E730-4401-844B-3C87A15EAEF8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SearchAppTests/appViewModelTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "performSearchTestForSuccess()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "76CE75FB-E730-4401-844B-3C87A15EAEF8 - 945ea779d6c5538e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SearchAppTests.appViewModelTests.performSearchTestForSuccess() async -&gt; ()"
+                  moduleName = "SearchAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankush/Desktop/SearchApp/SearchAppTests/appViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21">
+               </Location>
+               <Location
+                  uuid = "76CE75FB-E730-4401-844B-3C87A15EAEF8 - b7655c52bd87a898"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for SearchAppTests.appViewModelTests.performSearchTestForSuccess() async -&gt; ()"
+                  moduleName = "SearchAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankush/Desktop/SearchApp/SearchAppTests/appViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21">
+               </Location>
+               <Location
+                  uuid = "76CE75FB-E730-4401-844B-3C87A15EAEF8 - 8b6503bb9834978c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SearchAppTests.appViewModelTests.performSearchTestForSuccess() async -&gt; ()"
+                  moduleName = "SearchAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankush/Desktop/SearchApp/SearchAppTests/appViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21">
+               </Location>
+               <Location
+                  uuid = "76CE75FB-E730-4401-844B-3C87A15EAEF8 - fe90dc1ca50b798d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for SearchAppTests.appViewModelTests.performSearchTestForSuccess() async -&gt; ()"
+                  moduleName = "SearchAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankush/Desktop/SearchApp/SearchAppTests/appViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9069DD0-D7FE-44C5-BC33-BC05EE30A871"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SearchApp/ViewModel/SearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "performSearch(searchText:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A2E8431-B367-48BC-B6FE-449BA25771BB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SearchAppTests/appViewModelTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "performSearchTestForFailure()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5A2E8431-B367-48BC-B6FE-449BA25771BB - acf5cfb01c68c668"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SearchAppTests.appViewModelTests.performSearchTestForFailure() async -&gt; ()"
+                  moduleName = "SearchAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankush/Desktop/SearchApp/SearchAppTests/appViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32">
+               </Location>
+               <Location
+                  uuid = "5A2E8431-B367-48BC-B6FE-449BA25771BB - 90609811397fa46b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for SearchAppTests.appViewModelTests.performSearchTestForFailure() async -&gt; ()"
+                  moduleName = "SearchAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankush/Desktop/SearchApp/SearchAppTests/appViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
